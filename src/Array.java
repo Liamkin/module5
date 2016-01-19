@@ -1,5 +1,5 @@
 /**
- * Created by miroslavlyamkin on 29.12.15
+ * Created by miroslavlyamkin on 29.12.15. Выводит минимальное и максимальное значение в массиве.
  */
 public class Array{
     public static void main(String[] args) {
